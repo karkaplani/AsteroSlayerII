@@ -1,5 +1,5 @@
 # AsteroSlayerII
-Arcade Shoot 'Em Up Style game made with Unity and C#
+Arcade Shoot 'Em Up Style game made with Unity and C#. At first, I was plannning to make a casual, Flappy Bird style game with one extra mechanic, which is shooting, just to familiarize myself with Unity. Then, one extra idea led to another, and this came up. 
 
 Gameplay video --> https://www.youtube.com/watch?v=xCTak5342zk&t=2s
 
